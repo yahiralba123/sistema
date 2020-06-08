@@ -1,0 +1,20 @@
+body {font-family: verdana;background-color: #080d32; color:  #ffffff   }
+h1 {font-size: 40px}
+
+#contenedor{
+	margin:10px auto;
+	width: 85%
+}
+
+
+#cabezera{
+	background-color:#54AFEA;
+	color:#08283E;
+	padding:2%;
+}
+#contenido{
+	background-color:#FFFFFF;
+	float:left;
+	padding:3%;
+	color: #08283E;
+}
